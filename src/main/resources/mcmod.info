@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "modhider",
+    "name": "ModHider",
+    "description": "Prevent your mod list from being sent to the server.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://modrinth.com/mod/modhider/",
+    "updateUrl": "https://github.com/Ghosty920/ModHider/",
+    "authorList": [
+      "Ghosty"
+    ],
+    "credits": "",
+    "logoFile": "modhiderLogo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
